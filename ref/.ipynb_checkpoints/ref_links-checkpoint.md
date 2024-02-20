@@ -1,0 +1,20 @@
+### Data:  
+1. [bank churn dataset](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction)
+2. [bank churn competitions](https://www.kaggle.com/competitions/playground-series-s4e1)
+
+### Articles:  
+1. [Hyperopt for multiple models at once without custom class](https://towardsdatascience.com/automate-hyperparameter-tuning-with-hyperopts-for-multiple-models-22b499298a8a)
+2. [Conda List](https://stackoverflow.com/questions/41249401/difference-between-pip-freeze-and-conda-list)
+3. [Ensemble tress still SOTA](https://arxiv.org/abs/2207.08815)
+4. [char level tfidf](https://stackoverflow.com/questions/53920770/how-is-the-tf-idf-value-calculated-with-analyzer-char)
+5. [MLFlow-Hyperopt](https://medium.com/fasal-engineering/using-mlflow-with-hyperopt-for-automated-machine-learning-f1f3e110500)
+6. [MLFlow-Hyperopt Databricks](https://docs.databricks.com/en/_extras/notebooks/source/hyperopt-sklearn-model-selection.html)
+7. [Pandas Correlation Matrix](https://stackoverflow.com/questions/29432629/plot-correlation-matrix-using-pandas)
+8. [In Sklearn, average precision is AUPRC](https://stats.stackexchange.com/questions/157012/area-under-precision-recall-curve-auc-of-pr-curve-and-average-precision-ap)
+9. [Setting Up Venv with pip, conda breaks too often](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+10. [Sample weight in cross val score](https://stackoverflow.com/questions/68606631/how-can-i-do-cross-validation-with-sample-weights)
+11. [Char-wb in tfidf gives weird word tokens](https://stackoverflow.com/questions/54308898/tf-idf-vectorizer-has-whitespaces-in-feature-words-with-char-wb)
+12. [MLFlow with Optuna](https://mlflow.org/docs/latest/traditional-ml/hyperparameter-tuning-with-child-runs/notebooks/hyperparameter-tuning-with-child-runs.html)
+13. [MLFlow:latest error](https://github.com/mlflow/mlflow/issues/11109)
+14. [Optuna & Optuna-Dashboard, cause i can't figure out mlflow package error](https://github.com/optuna/optuna?tab=readme-ov-file)
+15. [Optuna reproducibility (Setting RNG seed number)](https://optuna.readthedocs.io/en/stable/faq.html)
