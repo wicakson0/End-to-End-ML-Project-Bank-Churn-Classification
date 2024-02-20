@@ -18,3 +18,5 @@
 13. [MLFlow:latest error](https://github.com/mlflow/mlflow/issues/11109)
 14. [Optuna & Optuna-Dashboard, cause i can't figure out mlflow package error](https://github.com/optuna/optuna?tab=readme-ov-file)
 15. [Optuna reproducibility (Setting RNG seed number)](https://optuna.readthedocs.io/en/stable/faq.html)
+16. [Git username and email](https://treeindev.net/article/git-change-user-name-email)
+17. [Git rebasing](https://treeindev.net/article/git-change-commit-name)
